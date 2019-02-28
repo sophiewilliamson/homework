@@ -1,0 +1,9 @@
+# Homework Week 5
+**How the Internet Came to Be**
+The internet is a set of networks connecting different locations used to communicate and share information. The idea for the internet started in 1910 with a man named Paul Otlet. His idea was to connect a collection of books, magazines, newspapers and photographs as a type of "web". The internet grew during the Space Race due to the need to share information in a way that could survive a nuclear war. In 1969 two computers were able to share information hundreds of miles away. Since then, the connections have become more and more advanced.
+
+**Robot Surgeons-Questions**
+1. Hospitals are now using robots to assist in surgeries. The robots are specifically for minimally-invasive procedures due to their preciseness. To use one, scientists have the option to either use computer controls, which means the surgeon doesn’t necessarily have to be present, or by remote.
+2. Some important people involved in these technological advances are Dr. James McEwen, Geof Auchinleck (UBC engineering and physics grad) and Dr. Bryan Day who invented the first medical robot. The company SRI International and Intuitive Surgical created the robot most commonly used in these surgical procedures. The robot is called the Da Vinci Surgical System and computer motion.
+3. Some of the important events were the first image guided MRI-compatible robotic neurosurgical procedure using a neuro-arm in 2008. In 2010, the first robotic operation took place at University Medical Center Ljubljana. Both of these event show huge milestones in the advances of medical robots.
+4. Some other types of related technologies include life-like robots that are used in other aspects of our society such as the military. Their abilities range from transportation to search and rescue controlled through remotes.  
