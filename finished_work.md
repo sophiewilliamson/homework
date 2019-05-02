@@ -4,4 +4,5 @@
 
 **Why I Chose This:** I chose to document my project this way because I thought it would be a good way to reach others that might seek medical help in the future. I thought it would be interesting to do something satirical especially with an issue that has strong pros and cons.
 
-![](finished_work.png) 
+![](finished_work.png)
+Image 3-Final Project: Satirical advertisement poster for the da Vinci Robot- 30 April 2019- digital illustrator file- 11x8.5 in
